@@ -41,7 +41,7 @@ Software Engineering | Database Management | Python & Scripting | Problem Solvin
 ### Projects
 
 <!-- PROJECTS:START -->
-- [**scrobbler-for-bingers**](https://github.com/siklevis7/scrobbler-for-bingers) · Automatically mark what you watch in VLC and mpv as watched on Bingers · `JavaScript`
+- [**scrobbler-for-bingers**](https://github.com/siklevis7/scrobbler-for-bingers) · Automatically mark what you watch in VLC and mpv as watched on Bingers · `Python`
 - [**aircrafty**](https://github.com/siklevis7/aircrafty) · 3D Model website for selected aircrafts · `JavaScript` · [Live](https://aircrafty.siklevis7.workers.dev/)
 - [**fams**](https://github.com/siklevis7/fams) · DEPLOYED FMS · `TypeScript` · [Live](https://fams-bay.vercel.app)
 - [**football_predictor**](https://github.com/siklevis7/football_predictor) · This project uses data from APIs to learn patterns about a Premier League match and then predicts possible occurrences in that match. It doesn't necessarily make predictions but rather checks mispricing of odds by a bookmaker compared to our models'. · `Python`
